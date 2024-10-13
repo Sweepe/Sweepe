@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+print("I'm currently learning python :D")
+<p>And I know a bit of html</p>
 <!--
 **Sweepe/Sweepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
